@@ -85,7 +85,7 @@ The News Portal API is a RESTful service that allows for the management of news 
 ## **How to Run**
 
 1. Clone the repository: `git clone <repository-url>`  
-2. Navigate to the project directory: `cd newsportal`  
+2. Navigate to the project directory: `cd sample/newsportal`  
 3. Build and run the application: `mvn spring-boot:run`
 
 ## **Author**
